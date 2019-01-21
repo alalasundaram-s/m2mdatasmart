@@ -1,0 +1,36 @@
+{
+      "head": { "sessionToken": "value" },
+      "data": [
+        {
+            "serial_number": "21419XXXX",
+            "alternate_id": "null",
+            "type": "O",
+            "date_inventoried": "Oct 31 2018 12:50PM",
+            "date_registered": "Oct 31 2018 12:51PM",
+            "description": "GPS Insight",
+            "account_id": 90054,
+            "vehicle": "GTSolar3",
+            "vin": "1GCEK19C39Z268780"
+        }, { "serial_number": "21420XXXX",
+        "alternate_id": "null",
+        "type": "O",
+        "date_inventoried": "Nov 30 2018 12:50PM",
+        "date_registered": "Nov 30 2018 12:51PM",
+        "description": "GPS Insight",
+        "account_id": 90054,
+        "vehicle": "GTSolar4",
+        "vin": "2HNYD18272H519607"
+      },
+      {
+        "serial_number": "21421XXXX",
+        "alternate_id": "null",
+        "type": "O",
+        "date_inventoried": "Dec 31 2018 12:50PM",
+        "date_registered": "Dec 31 2018 12:51PM",
+        "description": "GPS Insight",
+        "account_id": 90054,
+        "vehicle": "GTSolar5",
+        "vin": "1HGCM56884A120092"
+      }
+      ]
+    }
