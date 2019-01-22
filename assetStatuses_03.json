@@ -1,0 +1,16 @@
+[
+
+  {
+    "userId": 12688,
+    "assetId": 234526,
+	"position": "POINT (40.792590 -74.476660)",
+    "longitude": 40.792590,
+    "latitude": -74.476660,
+    "eventTime": "2019-01-08T07:40:31.602Z",
+    "totalOdometerKm": 9823,
+    "totalEngineHours": 10923,
+    "location": "223 Rockcrest St.  Morristown, NJ 07960",
+    "accountId": 1259572,
+    "id": 55490
+      }
+]

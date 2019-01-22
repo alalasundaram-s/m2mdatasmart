@@ -1,0 +1,206 @@
+[
+  {
+    "assetType": "Vehicle",
+    "createDate": "2018-12-23T03:29:36.287Z",
+    "eldConnectionType": "wifi_direct_pin_mode",
+    "eldDevice": "DigiWVA",
+    "eldDeviceName": "Dev01",
+    "eldEsn": 8767567890,
+    "eldMacAddress": "A4:3D:2A:FC:C7:59",
+    "eldPassword": "MAZS92A004",
+    "eldPin": "5678",
+    "eldWifiApSsid": "SSID_7896",
+    "eldWifiApPassword": "7896",
+    "fields":[
+      {
+        "name":"__eld_pin",
+        "value":"7896"
+      },
+      {
+        "name":"__eld_password",
+        "value":"7896MMA"
+      },
+      {
+        "name":"__eld_wifi_ap_password",
+        "value":"7896MMAA"
+      },
+      {
+        "name":"__eld_connection_type",
+        "value":"wifi_direct_pin_mode"
+      },
+      {
+        "name":"__eld_device",
+        "value":"DigiWVA"
+      },
+      {
+        "name":"__eld_mac_address",
+        "value":"98:87:76:65:54:A4"
+      },
+      {
+        "name":"__eld_device_name",
+        "value":"Dev01"
+      },
+      {
+        "name":"__eld_wifi_ap_ssid",
+        "value":"SSID_7896"
+      }
+    ],
+    "firmwareVersion": "",
+    "formIds": [
+      1227
+    ],
+    "gpsSource": "EITHER_DEVICE",
+    "homeTerminalId": 12708,
+    "licensePlate": "VEX-T01",
+    "licensePlateState": "IL",
+    "name": "Medium 01",
+    "regulationMode": "ELD",
+    "odometerOffsetKm": 0.0,
+    "useGpsOdometer": false,
+    "useManualEngineHours": false,
+    "vin": "WBANU53529C123323",
+    "visibilitySetIds": [
+      13017
+    ],
+    "accountId": 1259570,
+    "id": 55488,
+    "lastChangedDate": "2018-12-13T03:29:36.287Z"
+  } ,
+
+  {
+    "assetType": "Vehicle",
+    "createDate": "2018-12-15T03:29:36.287Z",
+    "eldConnectionType": "wifi_direct_pin_mode",
+    "eldDevice": "DigiWVA",
+    "eldDeviceName": "Dev02",
+    "eldEsn": 89721232,
+    "eldMacAddress": "A4:3D:2A:FC:C7:60",
+    "eldPassword": "MAZS92A005",
+    "eldPin": "1235",
+    "eldWifiApSsid": "SSID_865112",
+    "eldWifiApPassword": "1123",
+    "fields":[
+      {
+        "name":"__eld_pin",
+        "value":"1123"
+      },
+      {
+        "name":"__eld_password",
+        "value":"MAZS92A006"
+      },
+      {
+        "name":"__eld_wifi_ap_password",
+        "value":"8972"
+      },
+      {
+        "name":"__eld_connection_type",
+        "value":"wifi_direct_pin_mode"
+      },
+      {
+        "name":"__eld_device",
+        "value":"DigiWVA"
+      },
+      {
+        "name":"__eld_mac_address",
+        "value":"98:87:76:65:54:A5"
+      },
+      {
+        "name":"__eld_device_name",
+        "value":"Dev02"
+      },
+      {
+        "name":"__eld_wifi_ap_ssid",
+        "value":"SSID_865112"
+      }
+    ],
+    "firmwareVersion": "",
+    "formIds": [
+      1238
+    ],
+    "gpsSource": "EITHER_DEVICE",
+    "homeTerminalId": 12709,
+    "licensePlate": "VEH-X02",
+    "licensePlateState": "IL",
+    "name": "Medium 02",
+    "regulationMode": "ELD",
+    "odometerOffsetKm": 0.0,
+    "useGpsOdometer": false,
+    "useManualEngineHours": false,
+    "vin": "2HGFG3B8XCH546199",
+    "visibilitySetIds": [
+      13018
+    ],
+    "accountId": 1259571,
+    "id": 55489,
+    "lastChangedDate": "2018-12-14T03:29:36.287Z"
+  },
+    {
+    "assetType": "Vehicle",
+    "createDate": "2018-12-14T03:29:36.287Z",
+    "eldConnectionType": "wifi_direct_pin_mode",
+    "eldDevice": "DigiWVA",
+    "eldDeviceName": "Dev03",
+    "eldEsn": 1234567891,
+    "eldMacAddress": "A4:3D:2A:FC:C7:60",
+    "eldPassword": "MAZS92A005",
+    "eldPin": "5543",
+    "eldWifiApSsid": "SSID_6654",
+    "eldWifiApPassword": "6654",
+    "fields":[
+      {
+        "name":"__eld_pin",
+        "value":"78652"
+      },
+      {
+        "name":"__eld_password",
+        "value":"MUUS92A005"
+      },
+      {
+        "name":"__eld_wifi_ap_password",
+        "value":"9872"
+      },
+      {
+        "name":"__eld_connection_type",
+        "value":"wifi_direct_pin_mode"
+      },
+      {
+        "name":"__eld_device",
+        "value":"DigiWVA"
+      },
+      {
+        "name":"__eld_mac_address",
+        "value":"98:87:76:68:54:A5"
+      },
+      {
+        "name":"__eld_device_name",
+        "value":"Dev03"
+      },
+      {
+        "name":"__eld_wifi_ap_ssid",
+        "value":"SSID_6654"
+      }
+    ],
+    "firmwareVersion": "",
+    "formIds": [
+      1227
+    ],
+    "gpsSource": "EITHER_DEVICE",
+    "homeTerminalId": 12709,
+    "licensePlate": "BBF-X03",
+    "licensePlateState": "IL",
+    "name": "Medium 03",
+    "regulationMode": "ELD",
+    "odometerOffsetKm": 0.0,
+    "useGpsOdometer": false,
+    "useManualEngineHours": false,
+    "vin": "WBA3B5G59FNS12670",
+    "visibilitySetIds": [
+      13018
+    ],
+    "accountId": 1259572,
+    "id": 55490,
+    "lastChangedDate": "2018-12-13T03:29:36.287Z"
+  }
+
+
+]

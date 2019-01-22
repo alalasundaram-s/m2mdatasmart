@@ -1,0 +1,15 @@
+[
+  {
+    "userId": 1268897,
+    "assetId": 1452357,
+    "position": "POINT (31.118980 -97.877480)",
+    "longitude": 31.118980,
+    "latitude": -97.877480,
+    "eventTime": "2019-01-10T07:40:31.602Z",
+    "totalOdometerKm": 983.53,
+    "totalEngineHours": "98233",
+    "location": "9526 Greenrose Dr.  Copperas Cove, TX 76522",
+    "accountId": 1259570,
+    "id": 55488
+  }
+]
